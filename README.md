@@ -26,12 +26,12 @@ pip install qrcode[pil]
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/qr-code-app.git
+git clone https://github.com/makalin/QRGen.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd qr-code-app
+cd QRGen
 ```
 
 3. Install the dependencies:
